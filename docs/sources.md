@@ -13,11 +13,26 @@
 - Google Ads Help：About Smart Bidding。  
   https://support.google.com/google-ads/answer/7065882
 
+- Google Ads Help：Pick the right bid strategy。  
+  https://support.google.com/google-ads/answer/6167148
+
+- Google Ads Help：About Target ROAS bidding。  
+  https://support.google.com/google-ads/answer/6268637
+
 - Google Ads：How to use broad match and AI-powered Search advertising。  
   https://business.google.com/us/resources/articles/reaching-the-right-customers-on-search/
 
 - Google Ads Blog：AI Max for Search campaigns。  
   https://blog.google/products/ads-commerce/google-ai-max-for-search-campaigns/
+
+- Google Ads Help：Set up AI Max in Google Ads。  
+  https://support.google.com/google-ads/answer/15909989
+
+- Google Ads Help：Best practices for asset groups in Performance Max campaigns。  
+  https://support.google.com/google-ads/answer/14528220
+
+- Google Ads Help：Demand Gen campaign creative asset specifications。  
+  https://support.google.com/google-ads/answer/13704860
 
 - Google Marketing Live 2025：Power Pack。  
   https://business.google.com/us/accelerate/gml-announcements/
@@ -56,4 +71,3 @@
 - 搜索词和商品表现；
 - 国家、语言、履约和价格差异；
 - GA4、Google Ads 和后台订单数据差异。
-
