@@ -30,7 +30,7 @@
 | Brand Search | 品牌防守 | 5%-10% | Impression share / CPA / ROAS |
 | Non-brand Search | 高意图需求承接 | 20%-35% | Search terms / CPA / CVR / ROAS |
 | Performance Max | 商品与跨渠道放量 | 35%-55% | ROAS / New customers / Product performance |
-| Shopping / Feed Split | 商品控制与利润管理 | 0%-20% | Product ROAS / Margin / Inventory |
+| Shopping / Product Review | 商品控制与利润管理 | 0%-20% | Product ROAS / Margin / Inventory |
 | Demand Gen | 视觉种草与再激活 | 0%-15% | Assisted conversions / New users / View engagement |
 | Seasonal | 大促节点 | 单独预算 | GMV / ROAS / Stock / Promo performance |
 
@@ -43,4 +43,3 @@
 | 按毛利拆 | 是否需要优先投高毛利商品 | 待判断 |
 | 按国家拆 | 语言、价格、履约和竞争环境是否明显不同 | 待判断 |
 | 按大促拆 | 是否会干扰 evergreen campaign | 待判断 |
-

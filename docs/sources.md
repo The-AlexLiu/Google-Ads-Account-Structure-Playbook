@@ -67,7 +67,7 @@
 - 品类和客单价；
 - 毛利和目标 CPA / ROAS；
 - 日预算和转化量；
-- Merchant Center Feed 质量；
+- Merchant Center Feed 质量和商品表现；
 - 搜索词和商品表现；
 - 国家、语言、履约和价格差异；
 - GA4、Google Ads 和后台订单数据差异。

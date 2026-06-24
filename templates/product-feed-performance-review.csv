@@ -1,0 +1,4 @@
+item_id,title,brand,price,sale_price,availability,cost,clicks,conversions,conversion_value,roas,inventory_status,margin_level,decision,note
+SKU001,Example Running Shoes,Example,89.99,79.99,in_stock,0,0,0,0,,healthy,high,Keep in main campaign,Main product
+SKU002,Example Socks,Example,12.99,,in_stock,0,0,0,0,,healthy,low,Limit spend,Low AOV
+SKU003,Example Jacket,Example,149.99,119.99,out_of_stock,0,0,0,0,,low,high,Exclude until restocked,Inventory risk

@@ -24,7 +24,7 @@
 | Price / Sale price 与站点一致 | 待检查 |  |
 | Availability 准确 | 待检查 |  |
 | GTIN / Brand / MPN 尽量完整 | 待检查 |  |
-| Custom label 可用于毛利、库存、价格带、爆品分层 | 待检查 |  |
+| 能看出商品花费、点击、转化和库存状态 | 待检查 |  |
 
 ## 3. 站点与落地页
 
@@ -45,4 +45,3 @@
 | Non-brand Search | 先从核心品类词、问题词、场景词开始 |
 | Shopping / PMax | 先放主推商品、爆品、高毛利商品 |
 | Demand Gen | 有素材、预算和种草需求后再开 |
-
