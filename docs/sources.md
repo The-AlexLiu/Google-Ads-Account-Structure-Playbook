@@ -19,15 +19,6 @@
 - Google Ads Help：About Target ROAS bidding。  
   https://support.google.com/google-ads/answer/6268637
 
-- Google Ads：How to use broad match and AI-powered Search advertising。  
-  https://business.google.com/us/resources/articles/reaching-the-right-customers-on-search/
-
-- Google Ads Blog：AI Max for Search campaigns。  
-  https://blog.google/products/ads-commerce/google-ai-max-for-search-campaigns/
-
-- Google Ads Help：Set up AI Max in Google Ads。  
-  https://support.google.com/google-ads/answer/15909989
-
 - Google Ads Help：Best practices for asset groups in Performance Max campaigns。  
   https://support.google.com/google-ads/answer/14528220
 
