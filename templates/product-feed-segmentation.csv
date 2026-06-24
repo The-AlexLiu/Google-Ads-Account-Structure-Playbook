@@ -1,0 +1,5 @@
+item_id,title,product_type,brand,price,sale_price,availability,custom_label_0_margin,custom_label_1_price_band,custom_label_2_inventory,custom_label_3_priority,decision,note
+SKU001,Example Running Shoes,Footwear > Running Shoes,Example,89.99,79.99,in_stock,high_margin,50_100,healthy,hero,Include in PMax,Main product
+SKU002,Example Socks,Accessories > Socks,Example,12.99,,in_stock,low_margin,0_25,healthy,upsell,Shopping only,Low AOV
+SKU003,Example Jacket,Apparel > Jackets,Example,149.99,119.99,out_of_stock,high_margin,100_200,low,seasonal,Exclude until restocked,Inventory risk
+
