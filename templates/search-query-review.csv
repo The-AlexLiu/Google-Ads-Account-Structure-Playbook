@@ -1,5 +1,5 @@
 date,campaign,ad_group,search_query,match_type,keyword,cost,clicks,conversions,conversion_value,cpa,roas,landing_page,decision,note
-2026-06-24,Non-brand Search,Category Shoes,best running shoes for flat feet,phrase,running shoes for flat feet,0,0,0,0,,,https://example.com/collections/running-shoes,Watch,
-2026-06-24,Non-brand Search,Problem Terms,free running shoes,broad,running shoes,0,0,0,0,,,https://example.com/collections/running-shoes,Negative,Intent not commercial
-2026-06-24,Brand Search,Brand Terms,example brand shoes,exact,example brand,0,0,0,0,,,https://example.com,Keep,Brand defense
+2024-01-08,Non-brand Search,Category Shoes,best running shoes for flat feet,phrase,running shoes for flat feet,0,0,0,0,,,https://example.com/collections/running-shoes,Watch,
+2024-01-08,Non-brand Search,Problem Terms,free running shoes,broad,running shoes,0,0,0,0,,,https://example.com/collections/running-shoes,Negative,Intent not commercial
+2024-01-08,Brand Search,Brand Terms,example brand shoes,exact,example brand,0,0,0,0,,,https://example.com,Keep,Brand defense
 

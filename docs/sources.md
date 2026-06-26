@@ -42,13 +42,13 @@
 
 ## 行业实操资料
 
-- Store Growers：Performance Max Campaigns: The Ultimate Ecommerce Guide 2026。  
+- Store Growers：Performance Max Campaigns: The Ultimate Ecommerce Guide。  
   https://www.storegrowers.com/performance-max-campaigns/
 
-- Store Growers：The Ultimate Guide To Google Ads For Ecommerce 2026。  
+- Store Growers：The Ultimate Guide To Google Ads For Ecommerce。  
   https://www.storegrowers.com/google-ads-ecommerce/
 
-- Smarter Ecommerce：How to run Google Shopping alongside Performance Max in 2026。  
+- Smarter Ecommerce：How to run Google Shopping alongside Performance Max alongside Performance Max。  
   https://smarter-ecommerce.com/blog/en/google-shopping/how-to-run-google-shopping-alongside-performance-max-in-2026/
 
 ## 使用说明
